@@ -1,0 +1,45 @@
+*{
+
+}
+
+html{
+
+}
+
+.circle-butt{
+    background-color: rgba(192, 192, 192, 0.208);
+    border-radius: 100px;
+    border: none;
+}
+
+.purple-butt{
+    background-color: rgb(117,79,254);
+}
+
+.black-text{
+    color: black;
+}
+
+.details-butt{
+    background-color: white;
+    border: none;
+    
+}
+
+.orange{
+    color: orange;
+}
+
+.grey-area{
+    background-color: silver;
+}
+
+.circle-butt{
+    background-color: rgb(117,79,254);
+    width: 3vw;
+    height: 6vh;
+}
+
+.white{
+    color: white;
+}
