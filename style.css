@@ -49,3 +49,7 @@ html{
 .purple-text{
     color: rgb(117,79,254);
 }
+
+.grey-img{
+    filter: grayscale();
+}
