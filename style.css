@@ -6,7 +6,7 @@ html{
 
 }
 
-.circle-butt{
+.circle-but{
     background-color: rgba(192, 192, 192, 0.208);
     border-radius: 100px;
     border: none;
@@ -36,10 +36,16 @@ html{
 
 .circle-butt{
     background-color: rgb(117,79,254);
+    border-radius: 100px;
+    border: none;
     width: 3vw;
     height: 6vh;
 }
 
 .white{
     color: white;
+}
+
+.purple-text{
+    color: rgb(117,79,254);
 }
